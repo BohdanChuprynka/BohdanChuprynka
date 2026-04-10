@@ -63,15 +63,11 @@ Machine Learning engineer focused on building end-to-end ML systems and applied 
 
 ## Currently Learning
 
-- Advanced Reinforcement Learning & RLHF techniques
-- Multi-agent AI systems & agentic workflows
-- Large-scale distributed training
+- Autoresearch by Andrej Karpathy
 
 ## Currently Building
 
-- End-to-end ML pipelines with production-grade MLOps
-- RAG-powered applications with advanced retrieval strategies
-- Computer vision solutions for real-world use cases
+- Protege
 
 ## Reach Me
 
