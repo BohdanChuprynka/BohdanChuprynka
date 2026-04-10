@@ -63,15 +63,11 @@ Machine Learning engineer focused on building end-to-end ML systems and applied 
 
 ## Currently Learning
 
-- Autoresearch by Andrej Karpathy
+![Autoresearch by Andrej Karpathy](https://img.shields.io/badge/Autoresearch%20by%20Andrej%20Karpathy-FF6F00?style=for-the-badge&logoColor=white)
 
 ## Currently Building
 
-- Protege
-
-## Reach Me
-
-[![Gmail](https://img.shields.io/badge/bohdan.chuprynka@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bohdan.chuprynka@gmail.com)
+![Protege](https://img.shields.io/badge/Protege-7C3AED?style=for-the-badge&logoColor=white)
 
 ---
 
