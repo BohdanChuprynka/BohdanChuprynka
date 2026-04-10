@@ -61,6 +61,24 @@ Machine Learning engineer focused on building end-to-end ML systems and applied 
 
 ---
 
+## Currently Learning
+
+- Advanced Reinforcement Learning & RLHF techniques
+- Multi-agent AI systems & agentic workflows
+- Large-scale distributed training
+
+## Currently Building
+
+- End-to-end ML pipelines with production-grade MLOps
+- RAG-powered applications with advanced retrieval strategies
+- Computer vision solutions for real-world use cases
+
+## Reach Me
+
+[![Gmail](https://img.shields.io/badge/bohdan.chuprynka@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bohdan.chuprynka@gmail.com)
+
+---
+
 ## GitHub Stats
 
 ![Bohdan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BohdanChuprynka&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
