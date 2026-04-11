@@ -63,7 +63,7 @@ Machine Learning engineer focused on building end-to-end ML systems and applied 
 
 ## Currently Learning
 
-![Autoresearch by Andrej Karpathy](https://img.shields.io/badge/Autoresearch%20by%20Andrej%20Karpathy-FF6F00?style=for-the-badge&logoColor=white)
+![LangChain + LangSmith + LangGraph](https://img.shields.io/badge/LangChain%20%2B%20LangSmith%20%2B%20LangGraph%20Advanced%20Workflows-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ## Currently Building
 
