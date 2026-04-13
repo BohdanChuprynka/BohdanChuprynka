@@ -1,9 +1,9 @@
 <div align="center">
 
 # Bohdan Chuprynka
-### Machine Learning Engineer
+### Software Engineer
 
-Machine Learning engineer focused on building end-to-end ML systems and applied AI applications. Experience developing computer vision models, retrieval-augmented generation (RAG) pipelines, and scalable APIs — with an emphasis on reproducible experimentation, system architecture, and practical deployment.
+Full-stack engineer experienced in backend systems, APIs, and production deployments. Built full-stack Q&A platform, adaptive tutoring backend, and medical imaging systems. Proficient in Python, FastAPI, Docker, React, and JavaScript.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bohdanchuprynka.github.io-0078d7?style=for-the-badge&logo=github&logoColor=white)](https://bohdanchuprynka.github.io/Website-Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bohdan-chuprynka-792b0a2a2/)
