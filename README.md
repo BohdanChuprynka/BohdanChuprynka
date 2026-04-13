@@ -50,7 +50,7 @@ Full-stack engineer experienced in backend systems, APIs, and production deploym
 
 - **Aximon — Founding Software Engineer** (Mar 2026 – Present): FastAPI backend services for an adaptive learning platform; multi-modal LLM integration (GPT-4o-mini, Whisper, TTS); user state tracking and content sequencing. Deployed to production with active users.
 - **Cleveland Clinic — Software Engineering Intern** (Jun – Aug 2025): Built and deployed an automated medical image analysis system; data preprocessing pipelines, inference service, validation tooling. Estimated 80% reduction in manual annotation time.
-- **Policy RAG System** — Full-stack document Q&A: FastAPI backend, hybrid dense + BM25 retrieval, Streamlit frontend, Dockerized with GitHub Actions CI/CD. [GitHub](https://github.com/BohdanChuprynka)
+- **Policy RAG System** — Full-stack document Q&A: FastAPI backend, hybrid dense + BM25 retrieval, Streamlit frontend, Dockerized with GitHub Actions CI/CD.
 
 ---
 
