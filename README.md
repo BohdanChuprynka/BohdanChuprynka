@@ -62,8 +62,6 @@ AI Engineer building production systems across deep learning, RAG, and applied A
 
 ## GitHub Stats
 
-![Bohdan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BohdanChuprynka&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
 ![Bohdan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BohdanChuprynka&theme=radical&count_private=true)
 
 ---
